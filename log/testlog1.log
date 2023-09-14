@@ -1,0 +1,28 @@
+2023-09-14 17:46:41,968 [main] INFO ebay - URL is opened
+2023-09-14 17:46:42,039 [main] INFO ebay - SignIn link is displayed
+2023-09-14 17:46:42,096 [main] INFO ebay - Register link is displayed
+2023-09-14 17:46:42,126 [main] INFO ebay - Daily deals link is displayed
+2023-09-14 17:46:42,149 [main] INFO ebay - Help and contact link is displayed
+2023-09-14 17:46:42,157 [main] INFO ebay - enter the value in search box and choose category
+2023-09-14 17:46:46,427 [main] INFO ebay - sucessfully navigate to the page
+2023-09-14 17:47:34,831 [main] INFO ebay - URL is opened
+2023-09-14 17:47:34,880 [main] INFO ebay - SignIn link is displayed
+2023-09-14 17:47:34,920 [main] INFO ebay - Register link is displayed
+2023-09-14 17:47:34,959 [main] INFO ebay - Daily deals link is displayed
+2023-09-14 17:47:34,984 [main] INFO ebay - Help and contact link is displayed
+2023-09-14 17:47:34,990 [main] INFO ebay - enter the value in search box and choose category
+2023-09-14 17:47:40,049 [main] INFO ebay - sucessfully navigate to the page
+2023-09-14 17:53:08,786 [main] INFO ebay - URL is opened
+2023-09-14 17:53:08,862 [main] INFO ebay - SignIn link is displayed
+2023-09-14 17:53:08,915 [main] INFO ebay - Register link is displayed
+2023-09-14 17:53:08,950 [main] INFO ebay - Daily deals link is displayed
+2023-09-14 17:53:08,982 [main] INFO ebay - Help and contact link is displayed
+2023-09-14 17:53:08,989 [main] INFO ebay - enter the value in search box and choose category
+2023-09-14 17:53:13,751 [main] INFO ebay - sucessfully navigate to the page
+2023-09-14 18:26:21,665 [main] INFO ebay - URL is opened
+2023-09-14 18:26:26,076 [main] INFO ebay - sucessfully navigate to registration page
+2023-09-14 18:26:26,080 [main] INFO ebay - Enter customer details
+2023-09-14 18:26:26,778 [main] INFO ebay -  Susessfully enter customer details
+2023-09-14 18:27:33,502 [main] INFO ebay - URL is opened
+2023-09-14 18:27:39,062 [main] INFO ebay - Enter customer details
+2023-09-14 18:27:39,851 [main] INFO ebay -  Susessfully enter customer details

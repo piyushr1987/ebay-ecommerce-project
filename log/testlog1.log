@@ -26,3 +26,56 @@
 2023-09-14 18:27:33,502 [main] INFO ebay - URL is opened
 2023-09-14 18:27:39,062 [main] INFO ebay - Enter customer details
 2023-09-14 18:27:39,851 [main] INFO ebay -  Susessfully enter customer details
+2023-09-15 16:48:28,072 [main] INFO ebay - URL is opened
+2023-09-15 16:48:28,080 [main] INFO ebay - click on Sign In link
+2023-09-15 16:48:33,093 [main] INFO ebay - Enter the username
+2023-09-15 16:48:33,347 [main] INFO ebay - click on continue button
+2023-09-15 16:48:33,353 [main] INFO ebay - Enter the password
+2023-09-15 16:48:34,239 [main] INFO ebay - click on show password check box
+2023-09-15 16:48:34,239 [main] INFO ebay - click on sign in button
+2023-09-15 16:49:45,204 [main] INFO ebay - URL is opened
+2023-09-15 16:49:45,223 [main] INFO ebay - click on Sign In link
+2023-09-15 16:49:49,590 [main] INFO ebay - Enter the username
+2023-09-15 16:49:49,794 [main] INFO ebay - click on continue button
+2023-09-15 16:49:49,804 [main] INFO ebay - Enter the password
+2023-09-15 16:49:51,229 [main] INFO ebay - click on show password check box
+2023-09-15 16:49:51,229 [main] INFO ebay - click on sign in button
+2023-09-15 16:49:59,244 [main] INFO ebay - user name is displayed
+2023-09-15 16:55:18,491 [main] INFO ebay - URL is opened
+2023-09-15 16:55:18,501 [main] INFO ebay - click on Sign In link
+2023-09-15 16:55:21,941 [main] INFO ebay - Enter the username
+2023-09-15 16:55:22,131 [main] INFO ebay - click on continue button
+2023-09-15 16:55:22,136 [main] INFO ebay - Enter the password
+2023-09-15 16:55:23,637 [main] INFO ebay - click on show password check box
+2023-09-15 16:55:23,637 [main] INFO ebay - click on sign in button
+2023-09-15 16:55:28,823 [main] INFO ebay - user name is displayed
+2023-09-15 16:59:09,771 [main] INFO ebay - URL is opened
+2023-09-15 16:59:09,779 [main] INFO ebay - click on Sign In link
+2023-09-15 16:59:14,327 [main] INFO ebay - Enter the username
+2023-09-15 16:59:14,511 [main] INFO ebay - click on continue button
+2023-09-15 16:59:14,517 [main] INFO ebay - Enter the password
+2023-09-15 16:59:15,759 [main] INFO ebay - click on show password check box
+2023-09-15 16:59:15,760 [main] INFO ebay - click on sign in button
+2023-09-15 16:59:20,665 [main] INFO ebay - user name is displayed
+2023-09-15 20:37:42,736 [main] INFO ebay - Move to electronics link and then click on smartphone
+2023-09-15 20:37:45,938 [main] INFO ebay - click on IPhone
+2023-09-15 20:40:58,743 [main] INFO ebay - Move to electronics link and then click on smartphone
+2023-09-15 20:41:16,464 [main] INFO ebay - click on IPhone
+2023-09-15 20:41:17,105 [main] INFO ebay - sucessfully navigate to the page
+2023-09-15 20:43:42,451 [main] INFO ebay - Move to electronics link and then click on smartphone
+2023-09-15 20:44:01,123 [main] INFO ebay - click on IPhone
+2023-09-15 20:48:24,014 [main] INFO ebay - Move to electronics link and then click on smartphone
+2023-09-15 20:49:06,032 [main] INFO ebay - click on IPhone
+2023-09-15 20:51:42,370 [main] INFO ebay - Move to electronics link and then click on smartphone
+2023-09-15 20:51:55,590 [main] INFO ebay - click on IPhone
+2023-09-15 21:43:15,401 [main] INFO ebay - Move to electronics link and then click on smartphone
+2023-09-15 21:43:26,890 [main] INFO ebay - click on IPhone
+2023-09-15 21:47:46,113 [main] INFO ebay - Move to electronics link and then click on smartphone
+2023-09-15 21:47:55,900 [main] INFO ebay - click on IPhone
+2023-09-15 22:00:47,930 [main] INFO ebay - Move to electronics link and then click on smartphone
+2023-09-15 22:00:59,290 [main] INFO ebay - click on IPhone
+2023-09-15 22:01:00,179 [main] INFO ebay - sucessfully navigate to the page
+2023-09-15 22:03:49,959 [main] INFO ebay - Move to electronics link and then click on smartphone
+2023-09-15 22:04:01,299 [main] INFO ebay - click on IPhone
+2023-09-15 22:07:19,760 [main] INFO ebay - Move to electronics link and then click on smartphone
+2023-09-15 22:07:32,842 [main] INFO ebay - click on IPhone

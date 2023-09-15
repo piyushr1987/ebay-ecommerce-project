@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
+<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-14T18:27:25 IST" name="Default suite" finished-at="2023-09-14T18:27:39 IST" duration-ms="14764">
+  <suite started-at="2023-09-15T22:07:12 IST" name="Default suite" finished-at="2023-09-15T22:07:33 IST" duration-ms="21707">
     <groups>
     </groups>
-    <test started-at="2023-09-14T18:27:25 IST" name="Default test" finished-at="2023-09-14T18:27:39 IST" duration-ms="14764">
-      <class name="com.ebay.tests.RegisterTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ebay.tests.RegisterTest@2892d68]" started-at="2023-09-14T18:27:25 IST" name="setUp" finished-at="2023-09-14T18:27:33 IST" duration-ms="8203" status="PASS">
+    <test started-at="2023-09-15T22:07:12 IST" name="Default test" finished-at="2023-09-15T22:07:33 IST" duration-ms="21707">
+      <class name="com.ebay.tests.ElectronicsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ebay.tests.ElectronicsTest@5ab956d7]" started-at="2023-09-15T22:07:12 IST" name="setUp" finished-at="2023-09-15T22:07:19 IST" duration-ms="7441" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testRegisterPage()[pri:1, instance:com.ebay.tests.RegisterTest@2892d68]" started-at="2023-09-14T18:27:33 IST" name="testRegisterPage" finished-at="2023-09-14T18:27:39 IST" duration-ms="5569" status="FAIL">
+        <test-method signature="testElectronics()[pri:1, instance:com.ebay.tests.ElectronicsTest@5ab956d7]" started-at="2023-09-15T22:07:19 IST" name="testElectronics" finished-at="2023-09-15T22:07:32 IST" duration-ms="13078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testElectronics -->
+        <test-method signature="testClickOnSmartphone()[pri:2, instance:com.ebay.tests.ElectronicsTest@5ab956d7]" started-at="2023-09-15T22:07:32 IST" name="testClickOnSmartphone" finished-at="2023-09-15T22:07:33 IST" duration-ms="731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickOnSmartphone -->
+        <test-method signature="testPageNavigation()[pri:3, instance:com.ebay.tests.ElectronicsTest@5ab956d7]" started-at="2023-09-15T22:07:33 IST" name="testPageNavigation" finished-at="2023-09-15T22:07:33 IST" duration-ms="209" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -22,7 +30,7 @@ at org.testng.Assert.fail(Assert.java:110)
 at org.testng.Assert.failNotEquals(Assert.java:1577)
 at org.testng.Assert.assertTrue(Assert.java:56)
 at org.testng.Assert.assertTrue(Assert.java:66)
-at com.ebay.tests.RegisterTest.testRegisterPage(RegisterTest.java:37)
+at com.ebay.tests.ElectronicsTest.testPageNavigation(ElectronicsTest.java:48)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -56,16 +64,12 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testRegisterPage -->
-        <test-method signature="fillCustomerDetails()[pri:2, instance:com.ebay.tests.RegisterTest@2892d68]" started-at="2023-09-14T18:27:39 IST" name="fillCustomerDetails" finished-at="2023-09-14T18:27:39 IST" duration-ms="789" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- fillCustomerDetails -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ebay.tests.RegisterTest@2892d68]" started-at="2023-09-14T18:27:39 IST" name="tearDown" finished-at="2023-09-14T18:27:39 IST" duration-ms="147" status="PASS">
+        </test-method> <!-- testPageNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ebay.tests.ElectronicsTest@5ab956d7]" started-at="2023-09-15T22:07:33 IST" name="tearDown" finished-at="2023-09-15T22:07:33 IST" duration-ms="174" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.ebay.tests.RegisterTest -->
+      </class> <!-- com.ebay.tests.ElectronicsTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

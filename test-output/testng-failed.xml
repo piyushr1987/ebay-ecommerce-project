@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.ebay.tests.ElectronicsTest">
+      <class name="com.ebay.tests.CollectiblesAndArtTest">
         <methods>
-          <include name="tearDown"/>
+          <include name="testSpiderman"/>
           <include name="setUp"/>
-          <include name="testPageNavigation"/>
+          <include name="testSpidermanPage"/>
         </methods>
-      </class> <!-- com.ebay.tests.ElectronicsTest -->
+      </class> <!-- com.ebay.tests.CollectiblesAndArtTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

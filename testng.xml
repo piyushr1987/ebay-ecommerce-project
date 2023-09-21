@@ -8,7 +8,8 @@
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<!--<class name="com.ebay.tests.HomeTest" />-->
-			<class name="com.ebay.tests.SignInTest" />
+			<!--<class name="com.ebay.tests.SignInTest" />-->
+			<class name="com.ebay.tests.Fashion_FootwareTest" />
 		</classes>
 	</test>
 </suite> <!-- Suite -->

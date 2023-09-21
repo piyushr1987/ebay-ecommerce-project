@@ -79,3 +79,77 @@
 2023-09-15 22:04:01,299 [main] INFO ebay - click on IPhone
 2023-09-15 22:07:19,760 [main] INFO ebay - Move to electronics link and then click on smartphone
 2023-09-15 22:07:32,842 [main] INFO ebay - click on IPhone
+2023-09-20 12:38:39,432 [main] INFO ebay - URL is opened
+2023-09-20 12:38:39,447 [main] INFO ebay - click on Sign In link
+2023-09-20 12:38:48,800 [main] INFO ebay - Enter the username
+2023-09-20 12:38:49,204 [main] INFO ebay - click on continue button
+2023-09-20 12:38:49,204 [main] INFO ebay - Enter the password
+2023-09-20 12:38:50,232 [main] INFO ebay - click on show password check box
+2023-09-20 12:38:50,232 [main] INFO ebay - click on sign in button
+2023-09-20 12:38:50,240 [main] INFO ebay - Enter the username
+2023-09-20 12:39:21,477 [main] INFO ebay - Enter the username
+2023-09-20 12:40:30,842 [main] INFO ebay - URL is opened
+2023-09-20 12:40:30,842 [main] INFO ebay - click on Sign In link
+2023-09-20 12:40:40,392 [main] INFO ebay - Enter the username
+2023-09-20 12:40:40,929 [main] INFO ebay - click on continue button
+2023-09-20 12:40:40,929 [main] INFO ebay - Enter the password
+2023-09-20 12:40:42,862 [main] INFO ebay - click on show password check box
+2023-09-20 12:40:42,862 [main] INFO ebay - click on sign in button
+2023-09-20 12:40:42,866 [main] INFO ebay - Enter the username
+2023-09-20 12:41:21,858 [main] INFO ebay - Enter the username
+2023-09-20 16:54:36,425 [main] INFO ebay - Move to fashion link and then click on footware
+2023-09-20 16:55:57,826 [main] INFO ebay - Move to fashion link and then click on footware
+2023-09-20 16:56:01,577 [main] INFO ebay - sucessfully navigate to the shoe page
+2023-09-20 16:56:05,260 [main] INFO ebay - sucessfully navigate to the women boot page
+2023-09-20 16:56:08,832 [main] INFO ebay - sucessfully navigate to the women black boot page
+2023-09-20 16:56:11,616 [main] INFO ebay - sucessfully navigate to the women boots page
+2023-09-20 16:57:29,003 [main] INFO ebay - Move to fashion link and then click on footware
+2023-09-20 16:57:34,890 [main] INFO ebay - sucessfully navigate to the shoe page
+2023-09-20 16:57:38,674 [main] INFO ebay - sucessfully navigate to the women boot page
+2023-09-20 16:57:42,701 [main] INFO ebay - sucessfully navigate to the women black boot page
+2023-09-20 16:57:45,836 [main] INFO ebay - sucessfully navigate to the women boots page
+2023-09-20 16:57:45,845 [main] INFO ebay - Sucessfully click on costly item
+2023-09-20 17:00:25,925 [main] INFO ebay - Move to fashion link and then click on footware
+2023-09-20 17:00:29,593 [main] INFO ebay - sucessfully navigate to the shoe page
+2023-09-20 17:00:32,466 [main] INFO ebay - sucessfully navigate to the women boot page
+2023-09-20 17:00:34,863 [main] INFO ebay - sucessfully navigate to the women black boot page
+2023-09-20 17:00:38,491 [main] INFO ebay - sucessfully navigate to the women boots page
+2023-09-20 17:00:38,496 [main] INFO ebay - Sucessfully click on costly item
+2023-09-20 21:30:09,036 [main] INFO ebay - Move to fashion link and then click on women clothing
+2023-09-20 21:31:47,163 [main] INFO ebay - Move to fashion link and then click on women clothing
+2023-09-20 21:35:28,493 [main] INFO ebay - Move to fashion link and then click on women clothing
+2023-09-20 21:35:47,662 [main] INFO ebay - Move to fashion link and then click on footware
+2023-09-20 21:35:52,654 [main] INFO ebay - sucessfully navigate to the shoe page
+2023-09-20 21:35:56,892 [main] INFO ebay - sucessfully navigate to the women boot page
+2023-09-20 21:36:17,197 [main] INFO ebay - Sucessfully click on costly item
+2023-09-20 21:37:31,524 [main] INFO ebay - Move to fashion link and then click on women clothing
+2023-09-20 21:40:03,691 [main] INFO ebay - Move to fashion link and then click on women clothing
+2023-09-20 21:41:09,156 [main] INFO ebay - Move to fashion link and then click on women clothing
+2023-09-20 21:42:57,276 [main] INFO ebay - Move to fashion link and then click on women clothing
+2023-09-20 21:44:42,570 [main] INFO ebay - Move to fashion link and then click on women clothing
+2023-09-20 21:59:03,782 [main] INFO ebay - Move to fashion link and then click on women clothing
+2023-09-20 22:04:20,165 [main] INFO ebay - Move to fashion link and then click on women clothing
+2023-09-21 16:28:08,829 [main] INFO ebay - Move to fashion link and then click on women clothing
+2023-09-21 16:29:41,713 [main] INFO ebay - Move to fashion link and then click on women clothing
+2023-09-21 16:36:14,094 [main] INFO ebay - Move to fashion link and then click on women clothing
+2023-09-21 16:41:54,484 [main] INFO ebay - Move to fashion link and then click on women clothing
+2023-09-21 18:26:14,160 [main] INFO ebay - Move to Collectibles And Arts link and then click on movie and TV character
+2023-09-21 18:26:18,998 [main] INFO ebay - sucessfully navigate to the cartoon and action figure page
+2023-09-21 18:26:23,779 [main] INFO ebay - sucessfully navigate to the pokemon cartoon and TV character action figure page
+2023-09-21 18:26:26,896 [main] INFO ebay - sucessfully navigate to the burger king pokemon cartoon and TV character action figure page
+2023-09-21 18:27:54,266 [main] INFO ebay - Move to Collectibles And Arts link and then click on movie and TV character
+2023-09-21 18:28:00,321 [main] INFO ebay - sucessfully navigate to the cartoon and action figure page
+2023-09-21 18:28:05,149 [main] INFO ebay - sucessfully navigate to the pokemon cartoon and TV character action figure page
+2023-09-21 18:28:10,061 [main] INFO ebay - sucessfully navigate to the burger king pokemon cartoon and TV character action figure page
+2023-09-21 18:28:47,093 [main] INFO ebay - Move to Collectibles And Arts link and then click on movie and TV character
+2023-09-21 18:28:52,502 [main] INFO ebay - sucessfully navigate to the cartoon and action figure page
+2023-09-21 18:28:55,244 [main] INFO ebay - sucessfully navigate to the pokemon cartoon and TV character action figure page
+2023-09-21 18:28:58,433 [main] INFO ebay - sucessfully navigate to the burger king pokemon cartoon and TV character action figure page
+2023-09-21 20:10:13,873 [main] INFO ebay - Move to Collectibles And Arts link and then click on movie and TV character
+2023-09-21 20:10:18,816 [main] INFO ebay - sucessfully navigate to the cartoon and action figure page
+2023-09-21 20:10:21,591 [main] INFO ebay - sucessfully navigate to the pokemon cartoon and TV character action figure page
+2023-09-21 20:10:24,413 [main] INFO ebay - sucessfully navigate to the burger king pokemon cartoon and TV character action figure page
+2023-09-21 20:11:15,775 [main] INFO ebay - Move to Collectibles And Arts link and then click on movie and TV character
+2023-09-21 20:11:20,987 [main] INFO ebay - sucessfully navigate to the cartoon and action figure page
+2023-09-21 20:11:25,000 [main] INFO ebay - sucessfully navigate to the pokemon cartoon and TV character action figure page
+2023-09-21 20:11:27,980 [main] INFO ebay - sucessfully navigate to the burger king pokemon cartoon and TV character action figure page

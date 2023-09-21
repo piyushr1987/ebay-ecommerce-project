@@ -1,75 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-15T22:07:12 IST" name="Default suite" finished-at="2023-09-15T22:07:33 IST" duration-ms="21707">
+  <suite started-at="2023-09-21T20:11:08 IST" name="Default suite" finished-at="2023-09-21T20:11:45 IST" duration-ms="36812">
     <groups>
     </groups>
-    <test started-at="2023-09-15T22:07:12 IST" name="Default test" finished-at="2023-09-15T22:07:33 IST" duration-ms="21707">
-      <class name="com.ebay.tests.ElectronicsTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ebay.tests.ElectronicsTest@5ab956d7]" started-at="2023-09-15T22:07:12 IST" name="setUp" finished-at="2023-09-15T22:07:19 IST" duration-ms="7441" status="PASS">
+    <test started-at="2023-09-21T20:11:08 IST" name="Default test" finished-at="2023-09-21T20:11:45 IST" duration-ms="36812">
+      <class name="com.ebay.tests.CollectiblesAndArtTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ebay.tests.CollectiblesAndArtTest@2e385cce]" started-at="2023-09-21T20:11:08 IST" name="setUp" finished-at="2023-09-21T20:11:15 IST" duration-ms="6781" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testElectronics()[pri:1, instance:com.ebay.tests.ElectronicsTest@5ab956d7]" started-at="2023-09-15T22:07:19 IST" name="testElectronics" finished-at="2023-09-15T22:07:32 IST" duration-ms="13078" status="PASS">
+        <test-method signature="testFashionWomenClothing()[pri:1, instance:com.ebay.tests.CollectiblesAndArtTest@2e385cce]" started-at="2023-09-21T20:11:15 IST" name="testFashionWomenClothing" finished-at="2023-09-21T20:11:20 IST" duration-ms="5178" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testElectronics -->
-        <test-method signature="testClickOnSmartphone()[pri:2, instance:com.ebay.tests.ElectronicsTest@5ab956d7]" started-at="2023-09-15T22:07:32 IST" name="testClickOnSmartphone" finished-at="2023-09-15T22:07:33 IST" duration-ms="731" status="PASS">
+        </test-method> <!-- testFashionWomenClothing -->
+        <test-method signature="testCartoonActionFigurePage()[pri:2, instance:com.ebay.tests.CollectiblesAndArtTest@2e385cce]" started-at="2023-09-21T20:11:20 IST" name="testCartoonActionFigurePage" finished-at="2023-09-21T20:11:20 IST" duration-ms="33" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testClickOnSmartphone -->
-        <test-method signature="testPageNavigation()[pri:3, instance:com.ebay.tests.ElectronicsTest@5ab956d7]" started-at="2023-09-15T22:07:33 IST" name="testPageNavigation" finished-at="2023-09-15T22:07:33 IST" duration-ms="209" status="FAIL">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [true] but found [false]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:110)
-at org.testng.Assert.failNotEquals(Assert.java:1577)
-at org.testng.Assert.assertTrue(Assert.java:56)
-at org.testng.Assert.assertTrue(Assert.java:66)
-at com.ebay.tests.ElectronicsTest.testPageNavigation(ElectronicsTest.java:48)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:829)
-at org.testng.TestRunner.run(TestRunner.java:602)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
-at org.testng.SuiteRunner.run(SuiteRunner.java:330)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
-at org.testng.TestNG.runSuites(TestNG.java:1099)
-at org.testng.TestNG.run(TestNG.java:1067)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+        </test-method> <!-- testCartoonActionFigurePage -->
+        <test-method signature="testPokeman()[pri:3, instance:com.ebay.tests.CollectiblesAndArtTest@2e385cce]" started-at="2023-09-21T20:11:20 IST" name="testPokeman" finished-at="2023-09-21T20:11:24 IST" duration-ms="3885" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPageNavigation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ebay.tests.ElectronicsTest@5ab956d7]" started-at="2023-09-15T22:07:33 IST" name="tearDown" finished-at="2023-09-15T22:07:33 IST" duration-ms="174" status="PASS">
+        </test-method> <!-- testPokeman -->
+        <test-method signature="testPokemonCartoonAndTVCharacterActionFigurePage()[pri:4, instance:com.ebay.tests.CollectiblesAndArtTest@2e385cce]" started-at="2023-09-21T20:11:24 IST" name="testPokemonCartoonAndTVCharacterActionFigurePage" finished-at="2023-09-21T20:11:25 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPokemonCartoonAndTVCharacterActionFigurePage -->
+        <test-method signature="testBurgerKing()[pri:5, instance:com.ebay.tests.CollectiblesAndArtTest@2e385cce]" started-at="2023-09-21T20:11:25 IST" name="testBurgerKing" finished-at="2023-09-21T20:11:27 IST" duration-ms="2908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBurgerKing -->
+        <test-method signature="testBurgerKingPokemonCartoonAndTVCharacterActionFigurePage()[pri:6, instance:com.ebay.tests.CollectiblesAndArtTest@2e385cce]" started-at="2023-09-21T20:11:27 IST" name="testBurgerKingPokemonCartoonAndTVCharacterActionFigurePage" finished-at="2023-09-21T20:11:27 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBurgerKingPokemonCartoonAndTVCharacterActionFigurePage -->
+        <test-method signature="testSpiderman()[pri:7, instance:com.ebay.tests.CollectiblesAndArtTest@2e385cce]" started-at="2023-09-21T20:11:27 IST" name="testSpiderman" finished-at="2023-09-21T20:11:45 IST" duration-ms="17453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSpiderman -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ebay.tests.CollectiblesAndArtTest@2e385cce]" started-at="2023-09-21T20:11:45 IST" name="tearDown" finished-at="2023-09-21T20:11:45 IST" duration-ms="315" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.ebay.tests.ElectronicsTest -->
+      </class> <!-- com.ebay.tests.CollectiblesAndArtTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

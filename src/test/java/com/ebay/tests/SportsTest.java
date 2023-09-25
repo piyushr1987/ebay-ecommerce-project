@@ -3,6 +3,7 @@ package com.ebay.tests;
 import java.io.IOException;
 
 import org.testng.Assert;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
@@ -74,6 +75,11 @@ public class SportsTest extends BaseClass {
 	@Test(priority = 7)
 	public void testAddToCart() {
 		sport.clickOnAddToCart();
+	}
+	
+	@AfterTest
+	public void tearDown() {
+		driver.close();
 	}
 
 }

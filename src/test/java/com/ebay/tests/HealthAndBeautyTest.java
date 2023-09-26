@@ -80,16 +80,19 @@ public class HealthAndBeautyTest extends BaseClass {
 
 	@Test(priority = 7)
 	public void testSelectQuanity() {
+		Logger.info("sucessfully select the quantity");
 		health.selectQuality(prop.getProperty("quantity"));
 	}
 
 	@Test(priority = 8)
 	public void testEntertQuanity() {
+		Logger.info("sucessfully add the quantity");
 		health.enterQuantity(prop.getProperty("figure"));
 	}
 
 	@Test(priority = 9)
 	public void testAddToWatchlist() {
+		Logger.info("sucessfully click on add to watchlist");
 		health.clickOnAddToWatchList();
 	}
 

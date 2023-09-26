@@ -1,61 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+<testng-results ignored="0" total="9" passed="7" failed="2" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-25T18:29:44 IST" name="Default suite" finished-at="2023-09-25T18:30:01 IST" duration-ms="16574">
+  <suite started-at="2023-09-26T20:18:53 IST" name="Default suite" finished-at="2023-09-26T20:19:30 IST" duration-ms="36535">
     <groups>
     </groups>
-    <test started-at="2023-09-25T18:29:44 IST" name="Default test" finished-at="2023-09-25T18:30:01 IST" duration-ms="16574">
-      <class name="com.ebay.tests.HealthAndBeautyTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ebay.tests.HealthAndBeautyTest@f0c8a99]" started-at="2023-09-25T18:29:44 IST" name="setUp" finished-at="2023-09-25T18:29:49 IST" duration-ms="4927" status="PASS">
+    <test started-at="2023-09-26T20:18:53 IST" name="Default test" finished-at="2023-09-26T20:19:30 IST" duration-ms="36535">
+      <class name="com.ebay.tests.IndustrialEquipmentTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ebay.tests.IndustrialEquipmentTest@46cdf8bd]" started-at="2023-09-26T20:18:53 IST" name="setUp" finished-at="2023-09-26T20:18:59 IST" duration-ms="5734" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testSports()[pri:1, instance:com.ebay.tests.HealthAndBeautyTest@f0c8a99]" started-at="2023-09-25T18:29:49 IST" name="testSports" finished-at="2023-09-25T18:29:53 IST" duration-ms="3660" status="PASS">
+        <test-method signature="testSports()[pri:1, instance:com.ebay.tests.IndustrialEquipmentTest@46cdf8bd]" started-at="2023-09-26T20:18:59 IST" name="testSports" finished-at="2023-09-26T20:19:03 IST" duration-ms="4070" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSports -->
-        <test-method signature="testTeamSportPage()[pri:2, instance:com.ebay.tests.HealthAndBeautyTest@f0c8a99]" started-at="2023-09-25T18:29:53 IST" name="testTeamSportPage" finished-at="2023-09-25T18:29:53 IST" duration-ms="29" status="PASS">
+        <test-method signature="testRestaurantAndFoodServicePage()[pri:2, instance:com.ebay.tests.IndustrialEquipmentTest@46cdf8bd]" started-at="2023-09-26T20:19:03 IST" name="testRestaurantAndFoodServicePage" finished-at="2023-09-26T20:19:03 IST" duration-ms="83" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTeamSportPage -->
-        <test-method signature="testLipBalm()[pri:3, instance:com.ebay.tests.HealthAndBeautyTest@f0c8a99]" started-at="2023-09-25T18:29:53 IST" name="testLipBalm" finished-at="2023-09-25T18:29:54 IST" duration-ms="1674" status="PASS">
+        </test-method> <!-- testRestaurantAndFoodServicePage -->
+        <test-method signature="testRefrigator()[pri:3, instance:com.ebay.tests.IndustrialEquipmentTest@46cdf8bd]" started-at="2023-09-26T20:19:03 IST" name="testRefrigator" finished-at="2023-09-26T20:19:06 IST" duration-ms="2679" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLipBalm -->
-        <test-method signature="testLipBalmAndTratementPage()[pri:4, instance:com.ebay.tests.HealthAndBeautyTest@f0c8a99]" started-at="2023-09-25T18:29:54 IST" name="testLipBalmAndTratementPage" finished-at="2023-09-25T18:29:54 IST" duration-ms="62" status="PASS">
+        </test-method> <!-- testRefrigator -->
+        <test-method signature="testCommercialRefrigatorEquipmentPagePage()[pri:4, instance:com.ebay.tests.IndustrialEquipmentTest@46cdf8bd]" started-at="2023-09-26T20:19:06 IST" name="testCommercialRefrigatorEquipmentPagePage" finished-at="2023-09-26T20:19:06 IST" duration-ms="37" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLipBalmAndTratementPage -->
-        <test-method signature="testExpensiveLipBalm()[pri:5, instance:com.ebay.tests.HealthAndBeautyTest@f0c8a99]" started-at="2023-09-25T18:29:54 IST" name="testExpensiveLipBalm" finished-at="2023-09-25T18:29:57 IST" duration-ms="2618" status="PASS">
+        </test-method> <!-- testCommercialRefrigatorEquipmentPagePage -->
+        <test-method signature="testIceCreamEquiment()[pri:5, instance:com.ebay.tests.IndustrialEquipmentTest@46cdf8bd]" started-at="2023-09-26T20:19:06 IST" name="testIceCreamEquiment" finished-at="2023-09-26T20:19:09 IST" duration-ms="3096" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testExpensiveLipBalm -->
-        <test-method signature="testLipBalmItemPage()[pri:6, instance:com.ebay.tests.HealthAndBeautyTest@f0c8a99]" started-at="2023-09-25T18:29:57 IST" name="testLipBalmItemPage" finished-at="2023-09-25T18:29:57 IST" duration-ms="39" status="PASS">
+        </test-method> <!-- testIceCreamEquiment -->
+        <test-method signature="testCommercialIceCreamEquipmentPage()[pri:6, instance:com.ebay.tests.IndustrialEquipmentTest@46cdf8bd]" started-at="2023-09-26T20:19:09 IST" name="testCommercialIceCreamEquipmentPage" finished-at="2023-09-26T20:19:09 IST" duration-ms="44" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLipBalmItemPage -->
-        <test-method signature="testSelectQuanity()[pri:7, instance:com.ebay.tests.HealthAndBeautyTest@f0c8a99]" started-at="2023-09-25T18:29:57 IST" name="testSelectQuanity" finished-at="2023-09-25T18:29:57 IST" duration-ms="207" status="PASS">
+        </test-method> <!-- testCommercialIceCreamEquipmentPage -->
+        <test-method signature="testCostlyMachine()[pri:7, instance:com.ebay.tests.IndustrialEquipmentTest@46cdf8bd]" started-at="2023-09-26T20:19:09 IST" name="testCostlyMachine" finished-at="2023-09-26T20:19:09 IST" duration-ms="189" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testSelectQuanity -->
-        <test-method signature="testEntertQuanity()[pri:8, instance:com.ebay.tests.HealthAndBeautyTest@f0c8a99]" started-at="2023-09-25T18:29:57 IST" name="testEntertQuanity" finished-at="2023-09-25T18:29:57 IST" duration-ms="115" status="PASS">
+        </test-method> <!-- testCostlyMachine -->
+        <test-method signature="testBuyNow()[pri:8, instance:com.ebay.tests.IndustrialEquipmentTest@46cdf8bd]" started-at="2023-09-26T20:19:09 IST" name="testBuyNow" finished-at="2023-09-26T20:19:29 IST" duration-ms="20065" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='vim vi-evo-row-gap']//li[2]"}
+  (Session info: chrome=116.0.5845.188)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [816699d22aeb8110f10c0e194b124f5f, findElement {using=xpath, value=//div[@class='vim vi-evo-row-gap']//li[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\PIYUSH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62158}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62158/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 816699d22aeb8110f10c0e194b124f5f]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='vim vi-evo-row-gap']//li[2]"}
+  (Session info: chrome=116.0.5845.188)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [816699d22aeb8110f10c0e194b124f5f, findElement {using=xpath, value=//div[@class='vim vi-evo-row-gap']//li[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\PIYUSH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62158}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62158/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 816699d22aeb8110f10c0e194b124f5f
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at com.ebay.pages.IndustrialEquipmentPage.clickOnBuyNow(IndustrialEquipmentPage.java:80)
+at com.ebay.tests.IndustrialEquipmentTest.testBuyNow(IndustrialEquipmentTest.java:88)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testEntertQuanity -->
-        <test-method signature="testAddToWatchlist()[pri:9, instance:com.ebay.tests.HealthAndBeautyTest@f0c8a99]" started-at="2023-09-25T18:29:57 IST" name="testAddToWatchlist" finished-at="2023-09-25T18:30:00 IST" duration-ms="2716" status="PASS">
+        </test-method> <!-- testBuyNow -->
+        <test-method signature="testCheckOutButton()[pri:9, instance:com.ebay.tests.IndustrialEquipmentTest@46cdf8bd]" started-at="2023-09-26T20:19:29 IST" name="testCheckOutButton" finished-at="2023-09-26T20:19:29 IST" duration-ms="176" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertTrue(Assert.java:56)
+at org.testng.Assert.assertTrue(Assert.java:66)
+at com.ebay.tests.IndustrialEquipmentTest.testCheckOutButton(IndustrialEquipmentTest.java:98)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testAddToWatchlist -->
-        <test-method signature="testHelloText()[pri:10, instance:com.ebay.tests.HealthAndBeautyTest@f0c8a99]" started-at="2023-09-25T18:30:00 IST" name="testHelloText" finished-at="2023-09-25T18:30:00 IST" duration-ms="44" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testHelloText -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ebay.tests.HealthAndBeautyTest@f0c8a99]" started-at="2023-09-25T18:30:00 IST" name="tearDown" finished-at="2023-09-25T18:30:01 IST" duration-ms="415" status="PASS">
+        </test-method> <!-- testCheckOutButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ebay.tests.IndustrialEquipmentTest@46cdf8bd]" started-at="2023-09-26T20:19:29 IST" name="tearDown" finished-at="2023-09-26T20:19:30 IST" duration-ms="249" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.ebay.tests.HealthAndBeautyTest -->
+      </class> <!-- com.ebay.tests.IndustrialEquipmentTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
